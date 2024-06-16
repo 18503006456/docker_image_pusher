@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 keking/kkfileview-jdk:latest
 arm64v8/ubuntu:20.04
-selfancy/kkfileview-jdk-arm64
+kkfileview/kkfileview:arm
